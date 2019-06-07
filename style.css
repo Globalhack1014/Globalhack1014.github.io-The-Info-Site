@@ -1,0 +1,12 @@
+p{ background:blue;
+    font-size:30px;
+   color:white;
+opacity: 0.7;}
+
+body {
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZL1l5XrhX2qZ1DxGsCvKTEGQFe-TaVMkWOxm-p152m1AhsDY");
+}
+iframe{
+    display:block;
+    margin:auto;
+}
